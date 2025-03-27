@@ -34,9 +34,5 @@ The project follows these steps:
 * Exploratory Data Analysis (EDA) 📊 :
 * Model Training & Evaluation:
 
-📚 Splitting data into training and testing sets
 
-🤖 Training models (Logistic Regression, Random Forest, XGBoost, etc.)
-
-📈 Evaluating performance using accuracy, precision, recall, and F1-score
 
