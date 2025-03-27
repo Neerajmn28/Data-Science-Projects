@@ -26,3 +26,17 @@ Description: This project focuses on predicting future trends based on historica
 * Techniques Used: Time series analysis, ARIMA, SARIMA, Forecasting 📈
 * Tools Used: Python, Statsmodels, Pandas
 
+#### 8. Customer Churn Prediction
+Description: This project aims to predict customer churn using machine learning techniques. The dataset includes customer information such as demographics, service subscriptions, and usage patterns. The model identifies customers at risk of leaving, helping businesses take proactive retention measures.
+The project follows these steps:
+
+* Data Preprocessing 🛠️
+* Exploratory Data Analysis (EDA) 📊 :
+* Model Training & Evaluation:
+
+📚 Splitting data into training and testing sets
+
+🤖 Training models (Logistic Regression, Random Forest, XGBoost, etc.)
+
+📈 Evaluating performance using accuracy, precision, recall, and F1-score
+
